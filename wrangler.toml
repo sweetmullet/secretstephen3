@@ -1,7 +1,7 @@
 # Top-level configuration
 name = "my-worker"
-main = "/index.html"
+main = "index.html"
 compatibility_date = "2022-07-12"
 
 workers_dev = false
-route = { pattern = "example.org/*", zone_name = "example.org" }
+route = { pattern = "secretstephen.com/*", zone_name = "secretstephen.com" }
